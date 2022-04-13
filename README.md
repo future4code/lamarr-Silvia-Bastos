@@ -5,9 +5,9 @@ Esse repositório vai acompanhar vocês até o final do curso, para mantermos a 
 ```
 .
 ├── modulo1
-│   ├── nome-da-aula
-│   ├── nome-da-aula
-│   └── nome-do-projeto
+│   ├── aula-git
+│   ├── aula-variaveis
+│   └── projeto-readme
 |
 ├── modulo2
 │   ├── nome-da-aula
